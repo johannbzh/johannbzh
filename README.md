@@ -1,4 +1,5 @@
 ### Hi all ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Find me on [Gitlab](https://gitlab.com/johann15)!
 
 -  :technologist:	I'm Johann, 26 years old fullstack developer
 -  :earth_africa:	I was born and raised in Africa but and I'm half italian & lebanese (yessss!)
